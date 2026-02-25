@@ -1,0 +1,18 @@
+controle_obras/
+│
+├── app/
+│   ├── main.py
+│   ├── database.py
+│   ├── models.py
+│   ├── schemas.py
+│   ├── crud.py
+│   ├── routers/
+│   │     ├── obras.py
+│   │     ├── orcamentos.py
+│   │     ├── cronograma.py
+│   │     ├── compras.py
+│   │     └── medicoes.py
+│   └── utils.py
+│
+├── requirements.txt
+└── README.md
